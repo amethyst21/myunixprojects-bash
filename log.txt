@@ -1,0 +1,40 @@
+Enter one of the following actions or press CTRL-D to exit.
+C - create a customer file
+P - accept a customer payment
+F - find customer by apartment number
+Enter one of the following actions or press CTRL-D to exit.
+C - create a customer file
+P - accept a customer payment
+F - find customer by apartment number
+Enter one of the following actions or press CTRL-D to exit.
+C - create a customer file
+P - accept a customer payment
+F - find customer by apartment number
+Enter one of the following actions or press CTRL-D to exit.
+C - create a customer file
+P - accept a customer payment
+F - find customer by apartment number
+Email: sweet@xyz.com
+Name: Candy Barr
+Apt: APT-3D
+Balance: 0
+Rent Amount: 900
+Due Date: 2017-10-07
+Enter one of the following actions or press CTRL-D to exit.
+C - create a customer file
+P - accept a customer payment
+F - find customer by apartment number
+Error: apartment number not found
+Enter one of the following actions or press CTRL-D to exit.
+C - create a customer file
+P - accept a customer payment
+F - find customer by apartment number
+Enter one of the following actions or press CTRL-D to exit.
+C - create a customer file
+P - accept a customer payment
+F - find customer by apartment number
+Error: customer not found
+Enter one of the following actions or press CTRL-D to exit.
+C - create a customer file
+P - accept a customer payment
+F - find customer by apartment number
